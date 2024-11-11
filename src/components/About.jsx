@@ -10,7 +10,7 @@ const About = () => {
 
                 <h2 className="text-4xl font-bold mb-4 text-cyan-400">About Me</h2>
                 <p className="text-base lg:text-lg">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sunt, neque ab, facere recusandae cum impedit blanditiis, amet dolores quas alias doloremque odio inventore incidunt aliquam vitae similique. Hic, sint.
+                Dedicated B.Tech ECE student with a strong passion for software development. Eager to apply my technical skills and problem-solving abilities to innovative projects in the IT industry. Proficient in HTML5 CSS3 JAVASCRIPT AND REACT, with a keen interest in Web development. I'm committed to continuous learning and staying up-to-date with the latest technologies.
                 </p>
 
             </div>

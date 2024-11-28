@@ -1,4 +1,5 @@
 const Contact = () => {
+
   return (
     <div className="max-w-[1200px] mx-auto bg-black sm:py-20 p-5" id="contact">
       <div className="text-center">
@@ -46,6 +47,7 @@ const Contact = () => {
                     <button
                       type="submit"
                       className="text-xl w-full p-4 mt-2 font-semibold text-black bg-cyan-400 rounded-md inline-block"
+                  
                     >
                       Send
                     </button>

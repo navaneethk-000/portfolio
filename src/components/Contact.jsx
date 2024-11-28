@@ -29,7 +29,7 @@ const Contact = () => {
                       type="email"
                       name=""
                       id=""
-                      placeholder="Your Name"
+                      placeholder="Your Email"
                       className="bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-cyan-600"
                     />
                   </div>
